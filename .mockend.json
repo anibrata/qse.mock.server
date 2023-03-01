@@ -1,4 +1,4 @@
-{
+/*{
 	"Offense": {
 		"_": {
 			"items": 15,
@@ -19,5 +19,12 @@
 	"offense_id": { "loremWords": { "minLength": 5, "maxLength": 5 } },
 	"offense_desc": { "loremWords": { "minLength": 10, "maxLength": 50 } },
 	"offense_time": { "loremWord": { "minLength": 20, "maxLength": 20 } }
+}*/
+{
+  "Offense": {
+    "_": {
+      "data": [{ "title": "Title 1" }, { "title": "Title 2" }]
+    }
+  }
 }
 
